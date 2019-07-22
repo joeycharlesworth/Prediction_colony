@@ -7,4 +7,4 @@ Objective: Create a test with Colony.io to achieve the following tasks
 3. Add each of the required Colony "domains" 
 3. Add each of the required domain "skills" 
 4. Add each of the required "tasks" 
-5. Assign the relevant permissions to each Colony member
+5. Assign the relevant "permissions" to each Colony member
